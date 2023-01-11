@@ -12,5 +12,5 @@ You can download the code and test the live version of the HTML. Below is a scre
 
 #
 
-![screenshot](https://i.ibb.co/ZMms52Z/127-0-0-1-5500-index-html-i-Phone-12-Pro.png)
+<img src="https://i.ibb.co/gtYLRfq/127-0-0-1-5500-index-html1.png" width="206" height="1271">
 
